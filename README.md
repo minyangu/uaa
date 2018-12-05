@@ -1,6 +1,8 @@
 <link href="https://raw.github.com/clownfart/Markdown-CSS/master/markdown.css" rel="stylesheet"></link>
 
 # CloudFoundry User Account and Authentication (UAA) Server
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fminyangu%2Fuaa.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fminyangu%2Fuaa?ref=badge_shield)
+
 
 The UAA is a multi tenant identity management service, used in Cloud Foundry, but also available
 as a stand alone OAuth2 server.  Its primary role is as an OAuth2 provider, issuing tokens for client
@@ -174,3 +176,6 @@ Here are some ways for you to get involved in the community:
   We strictly adhere to test driven development. We kindly ask that 
   pull requests are accompanied with test cases that would be failing
   if ran separately from the pull request.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fminyangu%2Fuaa.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fminyangu%2Fuaa?ref=badge_large)
